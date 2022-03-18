@@ -27,8 +27,8 @@ const GradientPicker = () => {
                     </div>
             </div>
 
-            <div className="h-50 w-10" style={{ backgroundImage: `linear-gradient(to right,`+ color + `,`+ color2 + ` )` }}>
-ds
+            <div className=" border border-dark w-10" style={{ backgroundImage: `linear-gradient(to right,`+ color + `,`+ color2 + ` )`, height: "300px" }}>
+
             </div>
         </>
 
